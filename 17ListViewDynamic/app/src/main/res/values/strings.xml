@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">17.ListViewDynamic</string>
+    <string name="title">listView 動態載入</string>
+    <string name="pp">請滑動顯示</string>
+    <string-array name="item">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>
